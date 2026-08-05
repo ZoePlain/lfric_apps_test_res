@@ -8,7 +8,7 @@
 {# EX1A Groups #}
 {% do site_groups.update({
     "lfric_coupled_ex1a_developer": [
-        "lfric_coupled_nwp_gal9-C48_ex1a_cce_fast-debug-64bit",
+        "lfric_coupled_nwp_gal9-C48-ORCA1_ex1a_cce_fast-debug-64bit",
     ],
     "lfric_coupled_ex1a": [
         "lfric_coupled_ex1a_developer",
