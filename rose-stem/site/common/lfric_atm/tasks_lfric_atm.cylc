@@ -1212,7 +1212,7 @@
         "kgo_checks": ["checksum"],
     }) %}
 
-{% elif task_ns.conf_name == "nwp_gc6-C48_MG" %}
+{% elif task_ns.conf_name == "nwp_gc6-C48_ORCA1_MG" %}
 
     {% do task_dict.update({
         "opt_confs": ["coupled","no_dust","um_dump"],
