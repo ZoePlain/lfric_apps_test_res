@@ -178,7 +178,8 @@
         "lfric_atm_canned_ex1a_cce_fast-debug-32bit",
     ],
     "lfric_atm_coupled_ex1a_developer": [
-        "lfric_atm_coupled_nwp-gal9_C48_ex1a_cce_coupled-fast-debug-64bit",
+        "lfric_atm_coupled_nwp-gal9_C48_NEW_TEST_ex1a_cce_coupled-fast-debug-64bit",
+        "lfric_atm_coupled_nwp-gal9_C48-ORCA025_ex1a_cce_coupled-fast-debug-64bit",
     ],
     "lfric_atm_ex1a_developer": [
         "lfric_atm_nwp_ex1a_developer",
